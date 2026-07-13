@@ -24,8 +24,6 @@ The objective is to simulate a real-world analytics workflow by identifying proc
 - Project Roadmap
 - Future Enhancements
 - Skills Demonstrated
-- How to Use This Repository
-- Author
 
 ---
 
