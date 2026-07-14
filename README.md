@@ -266,7 +266,8 @@ Dashboard components include:
 - Outstanding Payment Analysis
 - Procurement Distribution
 
-Dashboard screenshots will be added after project completion.
+<img width="1004" height="418" alt="image" src="https://github.com/user-attachments/assets/947c7228-11a0-45ea-b882-e2bb53fa3333" />
+
 
 ---
 
